@@ -20,6 +20,8 @@ redirect_from:
 My name is Zihan Zhu (朱紫涵). I’m currently a [Direct Doctorate](https://inf.ethz.ch/doctorate/direct-doctorate-computer-science.html) student at ETH Zurich in Computer Science, supervised by Prof. Marc Pollefeys. I obtained my Bachelor degree at [Zhejiang University](https://www.zju.edu.cn/english/). My research interest lies in the intersection between computer vision and computer graphics. 
 
 # 🔥 News
+- *2023.03*: &nbsp;🎉🎉 Our paper NeRF On-the-go is accepted to CVPR 2024!
+- *2023.03*: &nbsp;🎉🎉 NICER-SLAM received the <span style="color:#c20000;">Best Paper Honorable Mention Award</span> at 3DV 2024! 
 - *2023.11*: &nbsp;🎉🎉 Our paper NICER-SLAM is accepted to 3DV 2024! 
 - *2022.03*: &nbsp;🎉🎉 One paper conditionally accepted to SIGGRAPH 2022 (journal track)!
 - *2022.03*: &nbsp;🎉🎉 I have been admitted to the Direct Doctorate programme in the ETH Zurich Department of Computer Science!
@@ -31,6 +33,19 @@ My name is Zihan Zhu (朱紫涵). I’m currently a [Direct Doctorate](https://i
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><img src='https://pengsongyou.github.io/media/teaser_otg3.jpg' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[NeRF On-the-go Exploiting Uncertainty for Distractor-free NeRFs in the Wild](https://rwn17.github.io/nerf-on-the-go/), [Weining Ren\*](https://github.com/rwn17),**Zihan Zhu\***, [Boyang Sun](https://inf.ethz.ch/people/people-atoz/person-detail.MjY0ODc2.TGlzdC8zMDQsLTIxNDE4MTU0NjA=.html), [Jiaqi Chen](https://inf.ethz.ch/people/people-atoz/person-detail.Mjc4NTY0.TGlzdC8zMDQsLTIxNDE4MTU0NjA=.html), [Marc Pollefeys](https://people.inf.ethz.ch/pomarc/), [Songyou Peng](https://pengsongyou.github.io)
+
+( * equal contribution)
+
+**CVPR, 2024** | [**Project**](https://rwn17.github.io/nerf-on-the-go/) 
+<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- We enable robust novel view synthesis from casually captured in-the-wild images.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><img src='images/nicer_teaser.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -38,7 +53,7 @@ My name is Zihan Zhu (朱紫涵). I’m currently a [Direct Doctorate](https://i
 
 ( * equal contribution)
 
-**3DV, 2024 (Oral)** | [**Project**](https://nicer-slam.github.io) 
+**3DV, 2024 (Oral, <span style="color:#c20000;">Best Paper Honorable Mention Award</span>)** | [**Project**](https://nicer-slam.github.io) 
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - **RGB-only** version of our [**NICE-SLAM**](http://pengsongyou.github.io/nice-slam), making it NICE**R**.
 </div>
@@ -100,7 +115,7 @@ ACM Transactions on Graphics (TOG) 40, 4 (**SIGGRAPH 2021**) | [**Project**](htt
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
 # 💻 Academic Services
-Conference Reviewer: CVPR, ICCV, ICRA, SIGGRAPH Asia, 3DV
+Conference Reviewer: CVPR, ICCV, ECCV, IROS, ICRA, SIGGRAPH, SIGGRAPH Asia, 3DV
 
-Journal Reviewer: T-RO, RA-L, TVCG
+Journal Reviewer: T-RO, RA-L, TVCG, TPAMI
 
