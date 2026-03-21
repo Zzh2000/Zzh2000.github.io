@@ -20,7 +20,9 @@ redirect_from:
 My name is Zihan Zhu (朱紫涵). I’m currently a [Direct Doctorate](https://inf.ethz.ch/doctorate/direct-doctorate-computer-science.html) student at ETH Zurich in Computer Science, supervised by Prof. Marc Pollefeys. I obtained my Bachelor degree at [Zhejiang University](https://www.zju.edu.cn/english/). My research interest lies in the intersection between computer vision and computer graphics. 
 
 # 🔥 News
-- *2023.03*: &nbsp;🎉🎉 Our paper NeRF On-the-go is accepted to CVPR 2024!
+- *2026.03*: &nbsp;🎉🎉 Our paper DROID-W is accepted to CVPR 2026!
+- *2025.02*: &nbsp;🎉🎉 Our paper WildGS-SLAM is accepted to CVPR 2025!
+- *2024.03*: &nbsp;🎉🎉 Our paper NeRF On-the-go is accepted to CVPR 2024!
 - *2023.03*: &nbsp;🎉🎉 NICER-SLAM received the <span style="color:#c20000;">Best Paper Honorable Mention Award</span> at 3DV 2024! 
 - *2023.11*: &nbsp;🎉🎉 Our paper NICER-SLAM is accepted to 3DV 2024! 
 - *2022.03*: &nbsp;🎉🎉 One paper conditionally accepted to SIGGRAPH 2022 (journal track)!
@@ -31,9 +33,43 @@ My name is Zihan Zhu (朱紫涵). I’m currently a [Direct Doctorate](https://i
 - *2022.09 - present*, Direct Doctorate, Department of Computer Science, ETH Zurich, Zurich, Switzerland. 
 - *2018.09 - 2022.06*, Undergraduate, Chu Kochen Honors College, Zhejiang Univeristy, Hangzhou, China. 
 
-# 📝 Publications 
+# 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><img src='https://pengsongyou.github.io/media/teaser_otg3.jpg' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div style="position:relative;" onmouseover="this.querySelector('img').style.display='none';this.querySelector('video').play();" onmouseout="this.querySelector('video').pause();this.querySelector('video').currentTime=0;this.querySelector('img').style.display='block';"><video width="100%" muted loop playsinline preload="auto"><source src='images/vigs_demo.mp4' type='video/mp4'></video><img src='images/vigs_poster.jpg' style="position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;" /></div></div>
+<div class='paper-box-text' markdown="1">
+
+[VIGS-SLAM: Visual Inertial Gaussian Splatting SLAM](https://vigs-slam.github.io/), **Zihan Zhu**, [Wei Zhang](https://www.ifp.uni-stuttgart.de/en/institute/team/Zhang-00004/), [Moyang Li](https://moyangli00.github.io/), [Norbert Haala](https://www.ifp.uni-stuttgart.de/institut/team/Haala-00001/), [Marc Pollefeys](https://people.inf.ethz.ch/pomarc/), [Dániel Béla Baráth](https://cvg.ethz.ch/team/Dr-Daniel-Bela-Barath)
+
+**arXiv, 2025** | [**Project**](https://vigs-slam.github.io/)
+- Visual inertial Gaussian Splatting SLAM for robust and accurate localization and mapping.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div style="position:relative;" onmouseover="this.querySelector('img').style.display='none';this.querySelector('video').play();" onmouseout="this.querySelector('video').pause();this.querySelector('video').currentTime=0;this.querySelector('img').style.display='block';"><video width="100%" muted loop playsinline><source src='https://moyangli00.github.io/droid-w/static/videos/teaser.mp4' type='video/mp4'></video><img src='images/droidw_poster.jpg' style="position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;" /></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DROID-W: DROID-SLAM in the Wild](https://moyangli00.github.io/droid-w/), [Moyang Li\*](https://moyangli00.github.io/), **Zihan Zhu\***, [Marc Pollefeys](https://people.inf.ethz.ch/pomarc/), [Dániel Béla Baráth](https://cvg.ethz.ch/team/Dr-Daniel-Bela-Barath)
+
+( * equal contribution)
+
+**CVPR, 2026** | [**Project**](https://moyangli00.github.io/droid-w/)
+- Extending DROID-SLAM to handle in-the-wild scenes with dynamic objects and appearance changes.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><video width="100%" muted loop playsinline onmouseover="this.play()" onmouseout="this.load();"><source src='https://wildgs-slam.github.io/resources/demo.mp4' type='video/mp4'></video></div>
+<div class='paper-box-text' markdown="1">
+
+[WildGS-SLAM: Monocular Gaussian Splatting SLAM in Dynamic Environments](https://wildgs-slam.github.io/), [Jianhao Zheng\*](https://jianhao-zheng.github.io/), **Zihan Zhu\***, [Valentin Bieri](https://www.linkedin.com/in/valentin-bieri-98426b207/), [Marc Pollefeys](https://people.inf.ethz.ch/pomarc/), [Songyou Peng](https://pengsongyou.github.io), [Iro Armeni](https://ir0.github.io/)
+
+( * equal contribution)
+
+**CVPR, 2025** | [**Project**](https://wildgs-slam.github.io/)
+- Monocular Gaussian Splatting SLAM that robustly handles dynamic environments.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><video width="100%" muted loop playsinline poster='https://pengsongyou.github.io/media/teaser_otg3.jpg' onmouseover="this.play()" onmouseout="this.load();"><source src='https://pengsongyou.github.io/media/teaser_otg_1.5x.mp4' type='video/mp4'></video></div>
 <div class='paper-box-text' markdown="1">
 
 [NeRF On-the-go Exploiting Uncertainty for Distractor-free NeRFs in the Wild](https://rwn17.github.io/nerf-on-the-go/), [Weining Ren\*](https://github.com/rwn17),**Zihan Zhu\***, [Boyang Sun](https://inf.ethz.ch/people/people-atoz/person-detail.MjY0ODc2.TGlzdC8zMDQsLTIxNDE4MTU0NjA=.html), [Jiaqi Chen](https://inf.ethz.ch/people/people-atoz/person-detail.Mjc4NTY0.TGlzdC8zMDQsLTIxNDE4MTU0NjA=.html), [Marc Pollefeys](https://people.inf.ethz.ch/pomarc/), [Songyou Peng](https://pengsongyou.github.io)
@@ -46,7 +82,7 @@ My name is Zihan Zhu (朱紫涵). I’m currently a [Direct Doctorate](https://i
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/nicer_teaser.jpg' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><video width="100%" muted loop playsinline poster='https://pengsongyou.github.io/media/nicer_teaser.jpg' onmouseover="this.play()" onmouseout="this.load();"><source src='https://pengsongyou.github.io/media/nicer_teaser.mp4' type='video/mp4'></video></div>
 <div class='paper-box-text' markdown="1">
 
 [NICER-SLAM: Neural Implicit Scene Encoding for RGB SLAM](https://nicer-slam.github.io), **Zihan Zhu\***, [Songyou Peng\*](https://pengsongyou.github.io), [Viktor Larsson](https://vlarsson.github.io/), [Zhaopeng Cui](https://zhpcui.github.io/), [Martin R Oswald](http://people.inf.ethz.ch/moswald/), [Andreas Geiger](https://www.cvlibs.net/), [Marc Pollefeys](https://people.inf.ethz.ch/pomarc/)
@@ -59,7 +95,7 @@ My name is Zihan Zhu (朱紫涵). I’m currently a [Direct Doctorate](https://i
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='https://superxjm.github.io/source_files/Neural%20Indoor.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><video width="100%" muted loop playsinline onloadedmetadata="this.currentTime=0.001;" onmouseover="this.play()" onmouseout="this.pause();this.currentTime=0.001;"><source src='https://xchaowu.github.io/papers/scalable-nisr/videos/salon.mp4' type='video/mp4'></video></div>
 <div class='paper-box-text' markdown="1">
 
 [Scalable Neural Indoor Scene Rendering](https://xchaowu.github.io/papers/scalable-nisr/), [Xiuchao Wu\*](https://xchaowu.github.io/), [Jiamin Xu\*](https://superxjm.github.io/), **Zihan Zhu**, [Hujun Bao](http://www.cad.zju.edu.cn/home/bao/), [Qixing Huang](https://www.cs.utexas.edu/~huangqx/), [James Tompkin](https://jamestompkin.com/), [Weiwei Xu](http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm)
@@ -72,7 +108,7 @@ ACM Transactions on Graphics (TOG) 41, 4 (**SIGGRAPH 2022**) | [**Project**](htt
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='https://pengsongyou.github.io/media/nice-slam/teaser.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><video width="100%" muted loop playsinline poster='https://pengsongyou.github.io/media/nice_teaser.jpg' onmouseover="this.play()" onmouseout="this.load();"><source src='https://pengsongyou.github.io/media/nice_teaser.mp4' type='video/mp4'></video></div>
 <div class='paper-box-text' markdown="1">
 
 [NICE-SLAM: Neural Implicit Scalable Encoding for SLAM](https://arxiv.org/pdf/2112.12130.pdf), **Zihan Zhu\***, [Songyou Peng\*](https://pengsongyou.github.io), [Viktor Larsson](https://vlarsson.github.io/), [Weiwei Xu](http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm), [Hujun Bao](http://www.cad.zju.edu.cn/home/bao/), [Zhaopeng Cui](https://zhpcui.github.io/), [Martin R Oswald](http://people.inf.ethz.ch/moswald/), [Marc Pollefeys](https://people.inf.ethz.ch/pomarc/)
