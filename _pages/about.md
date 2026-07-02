@@ -20,6 +20,7 @@ redirect_from:
 My name is Zihan Zhu (朱紫涵). I’m currently a [Direct Doctorate](https://inf.ethz.ch/doctorate/direct-doctorate-computer-science.html) student at ETH Zurich in Computer Science, supervised by Prof. Marc Pollefeys. I obtained my Bachelor degree at [Zhejiang University](https://www.zju.edu.cn/english/). My research interest lies in the intersection between computer vision and computer graphics. 
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 Our paper VIGS-SLAM is accepted to ECCV 2026!
 - *2026.03*: &nbsp;🎉🎉 Our paper DROID-W is accepted to CVPR 2026!
 - *2025.02*: &nbsp;🎉🎉 Our paper WildGS-SLAM is accepted to CVPR 2025!
 - *2024.03*: &nbsp;🎉🎉 Our paper NeRF On-the-go is accepted to CVPR 2024!
@@ -40,7 +41,7 @@ My name is Zihan Zhu (朱紫涵). I’m currently a [Direct Doctorate](https://i
 
 [VIGS-SLAM: Visual Inertial Gaussian Splatting SLAM](https://vigs-slam.github.io/), **Zihan Zhu**, [Wei Zhang](https://www.ifp.uni-stuttgart.de/en/institute/team/Zhang-00004/), [Moyang Li](https://moyangli00.github.io/), [Norbert Haala](https://www.ifp.uni-stuttgart.de/institut/team/Haala-00001/), [Marc Pollefeys](https://people.inf.ethz.ch/pomarc/), [Dániel Béla Baráth](https://cvg.ethz.ch/team/Dr-Daniel-Bela-Barath)
 
-**arXiv, 2025** | [**Project**](https://vigs-slam.github.io/)
+**ECCV, 2026** | [**Project**](https://vigs-slam.github.io/)
 - Visual inertial Gaussian Splatting SLAM for robust and accurate localization and mapping.
 </div>
 </div>
